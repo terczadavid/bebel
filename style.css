@@ -19,3 +19,7 @@ p {
     text-indent: 15px;
     line-height: 1.5;
 }
+
+a {
+    margin-bottom: 5px;
+}
