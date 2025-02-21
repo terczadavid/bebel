@@ -23,3 +23,14 @@ p {
 a {
     margin-bottom: 5px;
 }
+
+hr {
+    border: 1px solid black;
+}
+
+img {
+    border: 3px solid #000;
+    border-radius: 10px;
+    margin: 0.2rem;
+    float: right;
+}
